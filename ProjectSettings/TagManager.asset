@@ -7,6 +7,9 @@ TagManager:
   - Ground
   - Fire
   - GameWin
+  - LevelWin
+  - Spike
+  - Breakable
   layers:
   - Default
   - TransparentFX
