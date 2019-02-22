@@ -7,4 +7,6 @@ We used Unity with basic C# to make the game.
 The game contains 4 levels, each with increasing difficulty. Falling on certain obstacles causes the level to restart. 
 Landing on certain platforms may lead to danger, so beware!
 
+The game works on macOS. Download the repository and double-click on the "Game Impossible" file to play.
+
 Have fun!
